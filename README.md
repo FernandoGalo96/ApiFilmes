@@ -1,2 +1,4 @@
 # ApiFilmes
-Uma das primeiras APIs que eu fiz!
+Uma API usando o CRUD completo, utilizei MySql Workbench para armazenar os dados. Api referente a Adicionar,Remover,Atualizar e excluir os filmes.
+Utilizei AutoMapper, NewtonSoft.
+
